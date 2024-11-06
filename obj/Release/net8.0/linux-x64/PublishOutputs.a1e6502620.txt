@@ -1,0 +1,2 @@
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Release\net8.0\linux-x64\publish\RangoIP.pdb
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Release\net8.0\linux-x64\publish\RangoIP

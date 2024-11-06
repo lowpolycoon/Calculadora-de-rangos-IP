@@ -1,0 +1,14 @@
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Debug\net8.0\RangoIP.exe
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Debug\net8.0\RangoIP.deps.json
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Debug\net8.0\RangoIP.runtimeconfig.json
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Debug\net8.0\RangoIP.dll
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\bin\Debug\net8.0\RangoIP.pdb
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.AssemblyInfoInputs.cache
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.AssemblyInfo.cs
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.csproj.CoreCompileInputs.cache
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.dll
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\refint\RangoIP.dll
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.pdb
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\RangoIP.genruntimeconfig.cache
+C:\Users\Iván.DESKTOP-0L7E7CA\source\repos\RangoIP\RangoIP\obj\Debug\net8.0\ref\RangoIP.dll
